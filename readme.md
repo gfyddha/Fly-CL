@@ -35,6 +35,22 @@ cd scripts
 ./test_vtab.sh
 ```
 
+## 📖 Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```bibtex
+@misc{zou2025flyclflyinspiredframeworkenhancing,
+      title={Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning}, 
+      author={Heming Zou and Yunliang Zang and Wutong Xu and Xiangyang Ji},
+      year={2025},
+      eprint={2510.16877},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.16877}, 
+}
+```
+
 ## 📬 Contact
 
 If you have any questions or feedback, please feel free to reach out:  
