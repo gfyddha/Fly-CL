@@ -40,14 +40,11 @@ cd scripts
 If you find this repository useful, please consider citing our paper:
 
 ```bibtex
-@misc{zou2025flyclflyinspiredframeworkenhancing,
-      title={Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning}, 
-      author={Heming Zou and Yunliang Zang and Wutong Xu and Xiangyang Ji},
-      year={2025},
-      eprint={2510.16877},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2510.16877}, 
+@article{zou2025fly,
+  title={Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning}, 
+  author={Zou, Heming and Zang, Yunliang and Xu, Wutong and Ji, Xiangyang},
+  journal={arXiv preprint arXiv:2510.16877},
+  year={2025},
 }
 ```
 
