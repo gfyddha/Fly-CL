@@ -1,6 +1,6 @@
 # Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning
 
-This repository contains the official implementation of our paper:
+This repository contains the official implementation of our ICLR 2026 paper:
 **"Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning."**
 
 ![](assets/Fig1.png)
@@ -40,11 +40,12 @@ cd scripts
 If you find this repository useful, please consider citing our paper:
 
 ```bibtex
-@article{zou2025fly,
-  title={Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning}, 
-  author={Zou, Heming and Zang, Yunliang and Xu, Wutong and Ji, Xiangyang},
-  journal={arXiv preprint arXiv:2510.16877},
-  year={2025},
+@inproceedings{zou2026flycl,
+  title={Fly-{CL}: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning},
+  author={Heming Zou and Yunliang Zang and Wutong Xu and Xiangyang Ji},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=jNbxjdc745}
 }
 ```
 
